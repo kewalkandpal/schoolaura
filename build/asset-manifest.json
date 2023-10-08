@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0f7a9d2.css",
+    "main.js": "/static/js/main.b4606c98.js",
+    "static/media/Layer-20.png": "/static/media/Layer-20.330b2eb54f2b7bfdf2f1.png",
+    "static/media/spreading.png": "/static/media/spreading.093ec1be82b8dfa072f4.png",
+    "static/media/user2.jpg": "/static/media/user2.0d20d0f69481da48ef11.jpg",
+    "static/media/school_aura_app.jpg": "/static/media/school_aura_app.d42d9e8ac9ead6baedbf.jpg",
+    "static/media/client.png": "/static/media/client.d28b49919df51e9ba7bf.png",
+    "static/media/Clip.png": "/static/media/Clip.51722d47ed0dbdabd77c.png",
+    "static/media/banner-bg.png": "/static/media/banner-bg.e9d08acf2a323f40458c.png",
+    "static/media/user-5.jpg": "/static/media/user-5.eb8085f04c3ba7d556fe.jpg",
+    "static/media/user-4.jpg": "/static/media/user-4.ab68f351df50d0ef54d0.jpg",
+    "static/media/user-6.jpg": "/static/media/user-6.bdd8fc2043f0b346a3fe.jpg",
+    "static/media/footer.png": "/static/media/footer.9405aab0f791f75072d4.png",
+    "static/media/user-3 (1).png": "/static/media/user-3 (1).a547be21ac2b4285e138.png",
+    "static/media/header-girl-icon.png": "/static/media/header-girl-icon.be18edcbbfde229f2680.png",
+    "static/media/user-img.png": "/static/media/user-img.452c62c724a58eeb083b.png",
+    "static/media/logo_school.png": "/static/media/logo_school.55d59ea8941849dc613d.png",
+    "index.html": "/index.html",
+    "main.b0f7a9d2.css.map": "/static/css/main.b0f7a9d2.css.map",
+    "main.b4606c98.js.map": "/static/js/main.b4606c98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0f7a9d2.css",
+    "static/js/main.b4606c98.js"
+  ]
+}
