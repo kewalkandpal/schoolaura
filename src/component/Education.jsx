@@ -113,7 +113,7 @@ function Education(){
                     {
                         option?.map((item,id)=>{
                             return(
-                                <div className="w-[80px] md:flex-1 p-3 md:p-4 mb-1 bg-[#f1f1f1] text-[#666666] text-md md:text-[22px] cursor-pointer" style={{backgroundColor:`${select === item ? "white" : ""}`,borderLeft:`${select === item ? "5px solid #ff5202" : ""}`,color:`${select === item ? "#ff5202" : ""}`}} key={id} onClick={()=> setSelect(item)}>{item}</div>
+                                <div className="w-[80px] md:w-[300px] p-3 md:p-4 mb-1 bg-[#f1f1f1] text-[#666666] text-md md:text-[22px] cursor-pointer" style={{backgroundColor:`${select === item ? "white" : ""}`,borderLeft:`${select === item ? "5px solid #ff5202" : ""}`,color:`${select === item ? "#ff5202" : ""}`}} key={id} onClick={()=> setSelect(item)}>{item}</div>
                             )
                         })
                     }

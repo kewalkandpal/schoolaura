@@ -4,6 +4,7 @@ import { useState } from 'react';
 
 function Header() {
     const [open, setOpen] = useState(false);
+
     return (
         <header className="flex justify-between items-center flex-col">
             <div className="w-full flex justify-between items-center xl:px-[100px] py-1">
@@ -59,9 +60,9 @@ function Header() {
                         <li className='mb-5 xl:ml-2 xl:bg-[#0d1028] xl:px-2 xl:py-1 xl:rounded-md'><a href='/' className='text-white text-lg pl-5 xl:pl-2 hover:text-[#efff00]'>School Management</a></li>
                     </ul>
                 </div>
-                <div className='xl:hidden fixed right-10 top-10 z-10 flex justify-center items-center w-[44px] h-[34px] rounded-md bg-white cursor-pointer' onClick={() => setOpen(!open)}>
+                    <div className='xl:hidden fixed right-10 top-10 z-10 flex justify-center items-center w-[44px] h-[34px] rounded-md bg-white cursor-pointer' onClick={() => setOpen(!open)}>
                     <i class="fa-solid fa-bars text-[16px] text-black"></i>
-                </div>
+                </div> 
             </div>
         </header>
     )
